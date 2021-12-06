@@ -5,9 +5,9 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2021-12-06T23:03:25.337Z",
-    "end": "2021-12-06T23:03:39.677Z",
-    "duration": 14340,
+    "start": "2021-12-06T23:09:30.769Z",
+    "end": "2021-12-06T23:09:49.737Z",
+    "duration": 18968,
     "testsRegistered": 1,
     "passPercent": 100,
     "pendingPercent": 0,
@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "uuid": "d15c4ac6-12b1-4701-8dc4-6812e0dabb2d",
+      "uuid": "5b6da865-e9a8-4679-a53d-bd5a8b2019ad",
       "title": "",
       "fullFile": "cypress/integration/createUser.spec.js",
       "file": "cypress/integration/createUser.spec.js",
@@ -27,7 +27,7 @@
       "tests": [],
       "suites": [
         {
-          "uuid": "c99c5a9c-5ea7-4186-a52c-a85383641589",
+          "uuid": "f7315626-002a-4edb-8407-435d37e9d7fb",
           "title": "Create user",
           "fullFile": "",
           "file": "",
@@ -38,7 +38,7 @@
               "title": "When entering an email, fill the form and submit, then the User must be created and redirected to My Account",
               "fullTitle": "Create user When entering an email, fill the form and submit, then the User must be created and redirected to My Account",
               "timedOut": null,
-              "duration": 14217,
+              "duration": 18832,
               "state": "passed",
               "speed": "slow",
               "pass": true,
@@ -47,20 +47,20 @@
               "context": null,
               "code": "cy.visit('/index.php?controller=authentication&back=my-account');\ncy.fillForm();\ncy.submitForm();\ncy.validateRegistration();",
               "err": {},
-              "uuid": "8252a977-0874-421f-80dd-4b1669344787",
-              "parentUUID": "c99c5a9c-5ea7-4186-a52c-a85383641589",
+              "uuid": "6750852c-406a-4fba-a04b-10255ad3e24f",
+              "parentUUID": "f7315626-002a-4edb-8407-435d37e9d7fb",
               "isHook": false,
               "skipped": false
             }
           ],
           "suites": [],
           "passes": [
-            "8252a977-0874-421f-80dd-4b1669344787"
+            "6750852c-406a-4fba-a04b-10255ad3e24f"
           ],
           "failures": [],
           "pending": [],
           "skipped": [],
-          "duration": 14217,
+          "duration": 18832,
           "root": false,
           "rootEmpty": false,
           "_timeout": 2000
