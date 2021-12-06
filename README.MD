@@ -39,5 +39,7 @@ npm run cy:open
 
 ## Execução
 
+![chapteriv (2)](https://user-images.githubusercontent.com/58441306/144939230-3a52c6f9-487d-4a51-834d-d972b397056a.gif)
+
 ___
 Made with by [Vinicyus Marques](https://github.com/vinicyusmarques).
