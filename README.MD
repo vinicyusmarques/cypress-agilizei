@@ -36,5 +36,8 @@ npm run report:clean
 ```javascript
 npm run cy:open
 ```
+
+## Execução
+
 ___
 Made with by [Vinicyus Marques](https://github.com/vinicyusmarques).
