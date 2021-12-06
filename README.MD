@@ -1,7 +1,11 @@
 # Documentação
 Teste automatizado com Cypress de um cenário de cadastro para o desafio chapter IV do bootcamp Agilizei.
 
-## Instalando as dependências
+![chapteriv (2)](https://user-images.githubusercontent.com/58441306/144939230-3a52c6f9-487d-4a51-834d-d972b397056a.gif)
+
+Link do report: https://vinicyusmarques.github.io/desafio-chapteriv/
+
+## Instalando as dependências e execução
 
 A instalação a seguir será referente ao sistema operacional Ubuntu 20.04
 
@@ -36,10 +40,5 @@ npm run report:clean
 ```javascript
 npm run cy:open
 ```
-
-## Execução
-
-![chapteriv (2)](https://user-images.githubusercontent.com/58441306/144939230-3a52c6f9-487d-4a51-834d-d972b397056a.gif)
-
 ___
 Made with by [Vinicyus Marques](https://github.com/vinicyusmarques).
