@@ -35,7 +35,7 @@ npm run report:mocha
 ```javascript
 npm run report:clean
 ```
-7. É possivel executar o teste em modo interativo executando:
+7. É possivel executar o teste em modo interativo:
 
 ```javascript
 npm run cy:open

@@ -1,5 +1,5 @@
-var Chance = require('chance');
-var chance = new Chance();
+const Chance = require('chance');
+const chance = new Chance();
 
 
 Cypress.Commands.add('fillForm', () => { 
